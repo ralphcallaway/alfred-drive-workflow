@@ -12,7 +12,7 @@ With <kbd>⌘C</kbd> you can copy the link to your clipboard.
 
 ## Requirements
 
-This workflow relies on features introduced in Alfred version 3.4.1.
+The current version of this workflow relies on features introduced in Alfred version 3.4.1. To use with earlier versions of Alfred, including Alfred 2, download and open the [v1.2](https://github.com/azai91/alfred-drive-workflow/releases/download/v1.2/Google.Drive.alfredworkflow) version of the workflow. 
 
 ## Getting Started
 
